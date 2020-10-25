@@ -1,0 +1,19 @@
+2020-05-23 12:34:11,033 - INFO - Instabot Started
+2020-05-23 12:34:11,091 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=04fe8d2f-73c5-4a8c-b1f6-f9e89357f858
+- uuid=e1530b3b-8067-49d5-9eba-154ac185fa7e
+- client_session_id=47a468b0-6575-429b-a7e5-c18bcac451b6
+- device_id=android-eae649198e0733d6
+2020-05-23 12:34:11,091 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-23 12:34:15,029 - INFO - Logged-in successfully as 'intimatetale'!
+2020-05-23 12:34:37,863 - INFO - Photo '1 (115).jpg' is uploaded.
+2020-05-24 02:24:37,079 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=04fe8d2f-73c5-4a8c-b1f6-f9e89357f858
+- uuid=e1530b3b-8067-49d5-9eba-154ac185fa7e
+- client_session_id=47a468b0-6575-429b-a7e5-c18bcac451b6
+- device_id=android-eae649198e0733d6
+2020-05-24 02:24:37,107 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 02:24:46,480 - INFO - Logged-in successfully as 'intimatetale'!
+2020-05-24 02:25:07,447 - INFO - Photo '1 (116).jpg' is uploaded.

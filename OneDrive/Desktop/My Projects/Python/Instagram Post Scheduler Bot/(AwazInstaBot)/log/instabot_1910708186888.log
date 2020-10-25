@@ -1,0 +1,17 @@
+2020-01-25 02:53:20,842 - INFO - Instabot Started
+2020-01-25 09:47:50,063 - INFO - PRE-LOGIN FLOW!... 
+2020-01-25 09:47:53,395 - INFO - Logged-in successfully as 'mcet_memes'!
+2020-01-25 09:47:53,395 - INFO - LOGIN FLOW! Just logged-in: True
+2020-01-25 09:48:37,771 - ERROR - Request returns 400 error!
+2020-01-25 09:48:37,772 - INFO - Instagram's error message: Uploaded image isn't in the right format
+2020-01-25 09:48:37,773 - INFO - Instagram's error message: {}
+2020-01-25 09:48:53,492 - ERROR - Request returns 400 error!
+2020-01-25 09:48:53,494 - INFO - Instagram's error message: Uploaded image isn't in the right format
+2020-01-25 09:48:53,498 - INFO - Instagram's error message: {}
+2020-01-25 09:49:09,192 - ERROR - Request returns 400 error!
+2020-01-25 09:49:09,195 - INFO - Instagram's error message: Uploaded image isn't in the right format
+2020-01-25 09:49:09,198 - INFO - Instagram's error message: {}
+2020-01-25 09:49:24,964 - ERROR - Request returns 400 error!
+2020-01-25 09:49:24,973 - INFO - Instagram's error message: Uploaded image isn't in the right format
+2020-01-25 09:49:24,976 - INFO - Instagram's error message: {}
+2020-01-25 09:49:24,978 - INFO - Photo '1 (2).png' is not uploaded.

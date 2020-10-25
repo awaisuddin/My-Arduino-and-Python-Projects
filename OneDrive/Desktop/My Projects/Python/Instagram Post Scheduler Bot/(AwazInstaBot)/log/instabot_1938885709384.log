@@ -1,0 +1,7 @@
+2020-05-23 12:12:31,111 - INFO - Instabot Started
+2020-05-23 12:12:31,139 - INFO - PRE-LOGIN FLOW!... 
+2020-05-23 12:12:37,011 - INFO - Logged-in successfully as 'intimatetale'!
+2020-05-23 12:12:37,014 - INFO - LOGIN FLOW! Just logged-in: True
+2020-05-23 12:12:50,445 - ERROR - Photo does not have a compatible photo aspect ratio.
+2020-05-23 12:12:50,447 - INFO - Photo '1 (111).jpg' is not uploaded.
+2020-05-23 12:15:00,045 - INFO - Total requests: 21

@@ -1,0 +1,57 @@
+2020-05-21 05:34:20,723 - INFO - Instabot Started
+2020-05-21 05:34:20,749 - INFO - PRE-LOGIN FLOW!... 
+2020-05-21 05:34:24,492 - INFO - Logged-in successfully as 'intimatetale'!
+2020-05-21 05:34:24,493 - INFO - LOGIN FLOW! Just logged-in: True
+2020-05-21 05:35:11,484 - INFO - Photo '1 (107).jpg' is uploaded.
+2020-05-21 06:35:31,529 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=b8f567b5-2b57-4cd4-b64b-4dd858264d18
+- uuid=bdfed9f3-40e8-4f69-bb29-aeb80ab5e54f
+- client_session_id=fb6e9580-adb7-4635-9c3f-f40e7bb6db7c
+- device_id=android-eae649198e0733d6
+2020-05-21 06:35:31,575 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-21 06:35:45,342 - INFO - Logged-in successfully as 'intimatetale'!
+2020-05-21 06:36:07,964 - INFO - Photo '1 (108).jpg' is uploaded.
+2020-05-21 07:36:28,004 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=b8f567b5-2b57-4cd4-b64b-4dd858264d18
+- uuid=bdfed9f3-40e8-4f69-bb29-aeb80ab5e54f
+- client_session_id=179a21bc-64f4-479c-9997-d857d0fd4d58
+- device_id=android-eae649198e0733d6
+2020-05-21 07:36:28,006 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-21 07:36:34,056 - INFO - Logged-in successfully as 'intimatetale'!
+2020-05-21 07:36:54,470 - INFO - Photo '1 (109).jpg' is uploaded.
+2020-05-21 08:37:14,522 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=b8f567b5-2b57-4cd4-b64b-4dd858264d18
+- uuid=bdfed9f3-40e8-4f69-bb29-aeb80ab5e54f
+- client_session_id=3965e909-0ec2-4b63-b264-ca0f348d0dd4
+- device_id=android-eae649198e0733d6
+2020-05-21 08:37:14,524 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-21 08:37:19,991 - INFO - Logged-in successfully as 'intimatetale'!
+2020-05-21 08:37:42,549 - INFO - Photo '1 (11).jpg' is uploaded.
+2020-05-21 09:38:02,623 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=b8f567b5-2b57-4cd4-b64b-4dd858264d18
+- uuid=bdfed9f3-40e8-4f69-bb29-aeb80ab5e54f
+- client_session_id=c779f1a9-b726-4ce1-8327-86daf0b8d1d0
+- device_id=android-eae649198e0733d6
+2020-05-21 09:38:02,624 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-21 09:38:11,101 - INFO - Logged-in successfully as 'intimatetale'!
+2020-05-21 09:38:32,486 - INFO - Photo '1 (110).jpg' is uploaded.
+2020-05-21 10:38:52,554 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=b8f567b5-2b57-4cd4-b64b-4dd858264d18
+- uuid=bdfed9f3-40e8-4f69-bb29-aeb80ab5e54f
+- client_session_id=3fc651b0-71b0-41b9-b4cf-32a5a9e426b8
+- device_id=android-eae649198e0733d6
+2020-05-21 10:38:52,556 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-21 10:38:59,846 - INFO - Logged-in successfully as 'intimatetale'!
+2020-05-21 10:39:02,128 - ERROR - Photo does not have a compatible photo aspect ratio.
+2020-05-21 10:39:02,129 - INFO - Photo '1 (111).jpg' is not uploaded.
+2020-05-21 10:46:52,202 - INFO - Total requests: 80
+2020-05-21 10:46:52,204 - INFO - Total requests: 80
+2020-05-21 10:46:52,206 - INFO - Total requests: 80
+2020-05-21 10:46:52,207 - INFO - Total requests: 80
+2020-05-21 10:46:52,208 - INFO - Total requests: 80
+2020-05-21 10:46:52,209 - INFO - Total requests: 80

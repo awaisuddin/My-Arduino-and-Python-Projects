@@ -1,0 +1,32 @@
+2020-01-13 02:09:54,499 - INFO - Instabot Started
+2020-01-13 02:09:54,544 - INFO - PRE-LOGIN FLOW!... 
+2020-01-13 02:09:58,257 - INFO - Logged-in successfully as 'dasaudiboi'!
+2020-01-13 02:09:58,267 - INFO - LOGIN FLOW! Just logged-in: True
+2020-01-13 02:10:27,956 - INFO - Photo '1.jpeg' is uploaded.
+2020-01-13 02:10:48,017 - INFO - Recovery from dasaudiboi_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=0fee6727-28bd-45ce-ab02-81c8d63ac40d
+- uuid=ad3b2ab5-4d51-490d-9405-25fd6c9ea943
+- client_session_id=1ef655a8-a69a-448b-bb38-e3800376051c
+- device_id=android-0395c129b3a70c27
+2020-01-13 02:10:48,029 - INFO - LOGIN FLOW! Just logged-in: False
+2020-01-13 02:10:49,854 - INFO - Logged-in successfully as 'dasaudiboi'!
+2020-01-13 02:11:10,934 - INFO - Photo '2.jpeg' is uploaded.
+2020-01-13 02:11:31,034 - INFO - Recovery from dasaudiboi_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=0fee6727-28bd-45ce-ab02-81c8d63ac40d
+- uuid=ad3b2ab5-4d51-490d-9405-25fd6c9ea943
+- client_session_id=1ef655a8-a69a-448b-bb38-e3800376051c
+- device_id=android-0395c129b3a70c27
+2020-01-13 02:11:31,046 - INFO - LOGIN FLOW! Just logged-in: False
+2020-01-13 02:11:33,274 - INFO - Logged-in successfully as 'dasaudiboi'!
+2020-01-13 02:11:56,454 - INFO - Photo '3.jpeg' is uploaded.
+2020-01-13 02:12:16,534 - INFO - Recovery from dasaudiboi_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=0fee6727-28bd-45ce-ab02-81c8d63ac40d
+- uuid=ad3b2ab5-4d51-490d-9405-25fd6c9ea943
+- client_session_id=1ef655a8-a69a-448b-bb38-e3800376051c
+- device_id=android-0395c129b3a70c27
+2020-01-13 02:12:16,554 - INFO - LOGIN FLOW! Just logged-in: False
+2020-01-13 02:12:18,304 - INFO - Logged-in successfully as 'dasaudiboi'!
+2020-01-13 02:12:40,944 - INFO - Photo '4.jpeg' is uploaded.

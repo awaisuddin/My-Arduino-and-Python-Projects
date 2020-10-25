@@ -1,0 +1,19 @@
+2020-01-13 14:47:07,661 - INFO - Instabot Started
+2020-01-13 14:47:07,678 - INFO - Recovery from dasaudiboi_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=c4e94c72-9361-498e-8dd3-ce69cd47e5de
+- uuid=fc9a9e66-93af-4adc-8d72-ed8c8e9aa5e0
+- client_session_id=d24e52a2-9f34-41bc-8f21-bd87a44059c4
+- device_id=android-0395c129b3a70c27
+2020-01-13 14:47:07,683 - INFO - LOGIN FLOW! Just logged-in: False
+2020-01-13 14:47:09,467 - INFO - Logged-in successfully as 'dasaudiboi'!
+2020-01-13 14:47:29,902 - INFO - Photo '1.jpeg.REMOVE_ME.REMOVE_ME.REMOVE_ME' is uploaded.
+2020-01-13 14:47:49,947 - INFO - Recovery from dasaudiboi_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=c4e94c72-9361-498e-8dd3-ce69cd47e5de
+- uuid=fc9a9e66-93af-4adc-8d72-ed8c8e9aa5e0
+- client_session_id=d24e52a2-9f34-41bc-8f21-bd87a44059c4
+- device_id=android-0395c129b3a70c27
+2020-01-13 14:47:49,964 - INFO - LOGIN FLOW! Just logged-in: False
+2020-01-13 14:47:51,720 - INFO - Logged-in successfully as 'dasaudiboi'!
+2020-01-13 14:48:12,568 - INFO - Photo '2.jpeg.REMOVE_ME' is uploaded.

@@ -1,0 +1,21 @@
+2020-05-22 20:16:20,172 - INFO - Instabot Started
+2020-05-22 20:16:20,226 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=1a10800b-9d22-48cb-a214-ef304cdaebef
+- uuid=0e619e24-32b8-494f-9aa2-0dfb79de83f1
+- client_session_id=5857de49-f0b4-492f-84be-555907d3684b
+- device_id=android-eae649198e0733d6
+2020-05-22 20:16:20,227 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-22 20:16:30,079 - INFO - Logged-in successfully as 'intimatetale'!
+2020-05-22 20:16:33,740 - ERROR - Photo does not have a compatible photo aspect ratio.
+2020-05-22 20:16:33,740 - INFO - Photo '1 (111).jpg' is not uploaded.
+2020-05-22 23:16:53,930 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=1a10800b-9d22-48cb-a214-ef304cdaebef
+- uuid=0e619e24-32b8-494f-9aa2-0dfb79de83f1
+- client_session_id=5857de49-f0b4-492f-84be-555907d3684b
+- device_id=android-eae649198e0733d6
+2020-05-22 23:16:53,932 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-22 23:17:02,495 - INFO - Logged-in successfully as 'intimatetale'!
+2020-05-22 23:17:04,610 - ERROR - Photo does not have a compatible photo aspect ratio.
+2020-05-22 23:17:04,611 - INFO - Photo '1 (114).jpg' is not uploaded.

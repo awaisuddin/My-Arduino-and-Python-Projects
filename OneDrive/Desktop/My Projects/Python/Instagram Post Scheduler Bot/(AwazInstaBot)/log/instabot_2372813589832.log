@@ -1,0 +1,38 @@
+2020-05-21 10:53:22,378 - INFO - Instabot Started
+2020-05-21 10:53:22,408 - INFO - PRE-LOGIN FLOW!... 
+2020-05-21 10:53:26,286 - INFO - Logged-in successfully as 'intimatetale'!
+2020-05-21 10:53:26,303 - INFO - LOGIN FLOW! Just logged-in: True
+2020-05-21 10:53:41,015 - ERROR - Photo does not have a compatible photo aspect ratio.
+2020-05-21 10:53:41,016 - INFO - Photo '1 (111).jpg' is not uploaded.
+2020-05-21 13:54:01,141 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=296052f5-347d-4778-bcf4-76e68710f3e1
+- uuid=b752154a-fc9c-4ad0-a665-e098e18b90c5
+- client_session_id=7592633d-1f2c-4d82-8840-6827a57b0981
+- device_id=android-eae649198e0733d6
+2020-05-21 13:54:01,143 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-21 13:54:09,813 - INFO - Logged-in successfully as 'intimatetale'!
+2020-05-21 13:54:34,150 - INFO - Photo '1 (112).jpg' is uploaded.
+2020-05-21 16:54:54,221 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=296052f5-347d-4778-bcf4-76e68710f3e1
+- uuid=b752154a-fc9c-4ad0-a665-e098e18b90c5
+- client_session_id=b0ec61ca-5225-4bc6-afae-cd18137c9ce9
+- device_id=android-eae649198e0733d6
+2020-05-21 16:54:54,224 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-21 16:55:01,603 - INFO - Logged-in successfully as 'intimatetale'!
+2020-05-21 16:55:22,221 - INFO - Photo '1 (113).jpg' is uploaded.
+2020-05-21 19:55:42,564 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=296052f5-347d-4778-bcf4-76e68710f3e1
+- uuid=b752154a-fc9c-4ad0-a665-e098e18b90c5
+- client_session_id=6e054967-fbd5-471b-bcc0-66da5cc8826b
+- device_id=android-eae649198e0733d6
+2020-05-21 19:55:42,582 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-21 19:55:50,118 - INFO - Logged-in successfully as 'intimatetale'!
+2020-05-21 19:55:52,915 - ERROR - Photo does not have a compatible photo aspect ratio.
+2020-05-21 19:55:52,917 - INFO - Photo '1 (114).jpg' is not uploaded.
+2020-05-21 22:01:53,890 - INFO - Total requests: 58
+2020-05-21 22:01:53,897 - INFO - Total requests: 58
+2020-05-21 22:01:53,899 - INFO - Total requests: 58
+2020-05-21 22:01:53,901 - INFO - Total requests: 58

@@ -1,0 +1,24 @@
+2020-01-25 12:29:54,350 - INFO - Instabot Started
+2020-01-25 12:29:54,393 - INFO - Recovery from mcet_memes_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=c92c42d4-2991-483a-98d3-b78a0bbe6706
+- uuid=d0a6c766-70ad-4cfa-bf7f-b5eec0d22f39
+- client_session_id=beb3b652-8e62-4882-a181-df2e16f1a97f
+- device_id=android-f5254ea908bdecdc
+2020-01-25 12:29:54,402 - INFO - LOGIN FLOW! Just logged-in: False
+2020-01-25 12:29:54,514 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/feed/timeline/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x00000170890EF208>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-01-25 12:29:54,543 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/feed/reels_tray/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x00000170890EFE88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-01-25 12:29:54,551 - INFO - Login flow failed, the cookie is broken. Relogin again.
+2020-01-25 12:29:54,561 - INFO - Recovery from mcet_memes_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=c92c42d4-2991-483a-98d3-b78a0bbe6706
+- uuid=d0a6c766-70ad-4cfa-bf7f-b5eec0d22f39
+- client_session_id=beb3b652-8e62-4882-a181-df2e16f1a97f
+- device_id=android-f5254ea908bdecdc
+2020-01-25 12:29:54,573 - INFO - PRE-LOGIN FLOW!... 
+2020-01-25 12:29:54,589 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/accounts/read_msisdn_header/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x00000170890EFC48>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-01-25 12:29:54,606 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/launcher/sync/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000017089103248>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-01-25 12:29:54,629 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/qe/sync/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000017089103788>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-01-25 12:29:54,651 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/attribution/log_attribution/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x00000170890CBE88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-01-25 12:29:54,672 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/accounts/contact_point_prefill/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x00000170890D4548>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-01-25 12:29:54,692 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/accounts/login/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000017089103E08>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))

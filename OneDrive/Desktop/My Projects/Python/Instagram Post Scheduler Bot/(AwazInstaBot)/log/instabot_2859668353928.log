@@ -1,0 +1,9 @@
+2020-01-15 19:36:36,629 - INFO - Instabot Started
+2020-01-15 19:36:36,720 - INFO - Recovery from dasaudiboi_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=c4e94c72-9361-498e-8dd3-ce69cd47e5de
+- uuid=fc9a9e66-93af-4adc-8d72-ed8c8e9aa5e0
+- client_session_id=d24e52a2-9f34-41bc-8f21-bd87a44059c4
+- device_id=android-0395c129b3a70c27
+2020-01-15 19:36:36,728 - INFO - LOGIN FLOW! Just logged-in: False
+2020-01-15 19:36:53,848 - INFO - Logged-in successfully as 'dasaudiboi'!

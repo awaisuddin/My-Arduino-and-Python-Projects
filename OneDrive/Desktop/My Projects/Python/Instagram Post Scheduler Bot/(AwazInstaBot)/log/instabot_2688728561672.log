@@ -1,0 +1,14 @@
+2020-01-21 02:46:31,056 - INFO - Instabot Started
+2020-01-21 02:48:11,099 - INFO - PRE-LOGIN FLOW!... 
+2020-01-21 02:48:13,770 - INFO - Logged-in successfully as 'mcet_memes'!
+2020-01-21 02:48:13,770 - INFO - LOGIN FLOW! Just logged-in: True
+2020-01-21 02:48:46,545 - INFO - Photo '1 (19).jpg' is uploaded.
+2020-01-21 07:58:14,478 - INFO - Recovery from mcet_memes_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=649d12fe-1d18-4283-bccb-ddc838baff48
+- uuid=83fb902f-2cb1-4430-aaa2-175b70919610
+- client_session_id=f830642b-fb9c-43b8-92b3-77586e065e2f
+- device_id=android-f5254ea908bdecdc
+2020-01-21 07:58:14,478 - INFO - LOGIN FLOW! Just logged-in: False
+2020-01-21 07:58:22,069 - INFO - Logged-in successfully as 'mcet_memes'!
+2020-01-21 07:58:46,005 - INFO - Photo '1 (2).jpg' is uploaded.

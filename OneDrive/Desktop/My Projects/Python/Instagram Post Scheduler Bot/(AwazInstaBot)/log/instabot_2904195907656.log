@@ -1,0 +1,26 @@
+2020-01-16 03:23:59,201 - INFO - Instabot Started
+2020-01-16 03:24:19,359 - INFO - PRE-LOGIN FLOW!... 
+2020-01-16 03:24:22,188 - INFO - Logged-in successfully as 'mcet_memes'!
+2020-01-16 03:24:22,198 - INFO - LOGIN FLOW! Just logged-in: True
+2020-01-16 03:24:51,048 - ERROR - Request returns 400 error!
+2020-01-16 03:24:51,048 - INFO - Instagram's error message: Uploaded image isn't in the right format
+2020-01-16 03:24:51,056 - INFO - Instagram's error message: {}
+2020-01-16 03:25:06,903 - ERROR - Request returns 400 error!
+2020-01-16 03:25:06,913 - INFO - Instagram's error message: Uploaded image isn't in the right format
+2020-01-16 03:25:06,924 - INFO - Instagram's error message: {}
+2020-01-16 03:25:22,943 - ERROR - Request returns 400 error!
+2020-01-16 03:25:22,953 - INFO - Instagram's error message: Uploaded image isn't in the right format
+2020-01-16 03:25:22,964 - INFO - Instagram's error message: {}
+2020-01-16 03:25:38,830 - ERROR - Request returns 400 error!
+2020-01-16 03:25:38,840 - INFO - Instagram's error message: Uploaded image isn't in the right format
+2020-01-16 03:25:38,851 - INFO - Instagram's error message: {}
+2020-01-16 03:25:38,861 - INFO - Photo '1 (1).png' is not uploaded.
+2020-01-16 03:26:59,006 - INFO - Recovery from mcet_memes_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=79df25e4-b750-463d-830f-55dcfe97de66
+- uuid=906bffc4-a207-4cba-b1a0-6cb1e76b6771
+- client_session_id=34069e32-3dd0-4389-860c-27b1d28e5693
+- device_id=android-f5254ea908bdecdc
+2020-01-16 03:26:59,022 - INFO - LOGIN FLOW! Just logged-in: False
+2020-01-16 03:27:01,332 - INFO - Logged-in successfully as 'mcet_memes'!
+2020-01-16 03:27:23,290 - INFO - Photo '1 (10).jpg' is uploaded.

@@ -1,0 +1,36 @@
+2020-05-20 15:23:58,593 - INFO - Instabot Started
+2020-05-20 15:23:58,610 - INFO - PRE-LOGIN FLOW!... 
+2020-05-20 15:24:03,699 - INFO - Logged-in successfully as 'intimatetale'!
+2020-05-20 15:24:03,699 - INFO - LOGIN FLOW! Just logged-in: True
+2020-05-20 15:24:46,001 - INFO - Photo '1 (1).jpg' is uploaded.
+2020-05-20 16:25:06,068 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=8632617c-2bae-4418-90f1-b65e21729a22
+- uuid=aa1cab91-189d-43e0-beaa-90b273f5417a
+- client_session_id=486a145a-dc2e-41a3-8d0a-f7ebdc248b27
+- device_id=android-eae649198e0733d6
+2020-05-20 16:25:06,069 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-20 16:25:11,855 - INFO - Logged-in successfully as 'intimatetale'!
+2020-05-20 16:25:32,940 - INFO - Photo '1 (10).jpg' is uploaded.
+2020-05-20 17:25:52,994 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=8632617c-2bae-4418-90f1-b65e21729a22
+- uuid=aa1cab91-189d-43e0-beaa-90b273f5417a
+- client_session_id=ad8ea8a6-0d57-450e-90c8-7d5c1a1196ff
+- device_id=android-eae649198e0733d6
+2020-05-20 17:25:52,997 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-20 17:25:59,242 - INFO - Logged-in successfully as 'intimatetale'!
+2020-05-20 17:26:20,463 - INFO - Photo '1 (100).jpg' is uploaded.
+2020-05-20 18:26:40,548 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=8632617c-2bae-4418-90f1-b65e21729a22
+- uuid=aa1cab91-189d-43e0-beaa-90b273f5417a
+- client_session_id=1eaaba5a-1206-4b2f-bcd9-0d6e762ed81c
+- device_id=android-eae649198e0733d6
+2020-05-20 18:26:40,549 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-20 18:26:46,954 - INFO - Logged-in successfully as 'intimatetale'!
+2020-05-20 18:27:07,535 - INFO - Photo '1 (101).jpg' is uploaded.
+2020-05-20 19:17:24,918 - INFO - Total requests: 58
+2020-05-20 19:17:24,921 - INFO - Total requests: 58
+2020-05-20 19:17:24,923 - INFO - Total requests: 58
+2020-05-20 19:17:24,924 - INFO - Total requests: 58

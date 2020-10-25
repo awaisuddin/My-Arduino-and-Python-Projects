@@ -1,0 +1,191 @@
+2020-06-01 10:53:49,809 - INFO - Instabot Started
+2020-06-01 10:53:49,818 - INFO - PRE-LOGIN FLOW!... 
+2020-06-01 10:53:54,407 - INFO - Logged-in successfully as 'intimatetale'!
+2020-06-01 10:53:54,409 - INFO - LOGIN FLOW! Just logged-in: True
+2020-06-01 10:54:09,870 - ERROR - Photo does not have a compatible photo aspect ratio.
+2020-06-01 10:54:09,871 - INFO - Photo '1 (16).jpg' is not uploaded.
+2020-06-01 11:24:29,920 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=62a164ba-75aa-4333-b3de-67b962d093c1
+- uuid=f5306b6d-0fa4-4a72-b552-8fc631e5f936
+- client_session_id=f6b81639-4420-4acd-ab67-48b377a5637b
+- device_id=android-eae649198e0733d6
+2020-06-01 11:24:29,922 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-01 11:24:35,921 - INFO - Logged-in successfully as 'intimatetale'!
+2020-06-01 11:25:00,443 - INFO - Photo '1 (171).jpg' is uploaded.
+2020-06-01 11:55:20,481 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=62a164ba-75aa-4333-b3de-67b962d093c1
+- uuid=f5306b6d-0fa4-4a72-b552-8fc631e5f936
+- client_session_id=b14d5e6a-0a89-4ef5-9fe0-631b2b0b31bb
+- device_id=android-eae649198e0733d6
+2020-06-01 11:55:20,483 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-01 11:55:26,647 - INFO - Logged-in successfully as 'intimatetale'!
+2020-06-01 11:55:48,594 - INFO - Photo '1 (172).jpg' is uploaded.
+2020-06-01 12:26:08,643 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=62a164ba-75aa-4333-b3de-67b962d093c1
+- uuid=f5306b6d-0fa4-4a72-b552-8fc631e5f936
+- client_session_id=961af3ed-fb40-417c-a048-64818fa9b8c3
+- device_id=android-eae649198e0733d6
+2020-06-01 12:26:08,644 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-01 12:26:14,592 - INFO - Logged-in successfully as 'intimatetale'!
+2020-06-01 12:26:36,045 - INFO - Photo '1 (173).jpg' is uploaded.
+2020-06-01 12:56:56,194 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=62a164ba-75aa-4333-b3de-67b962d093c1
+- uuid=f5306b6d-0fa4-4a72-b552-8fc631e5f936
+- client_session_id=8df5362a-c72d-4b25-85a1-c20d2199e28e
+- device_id=android-eae649198e0733d6
+2020-06-01 12:56:56,196 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-01 12:57:05,035 - INFO - Logged-in successfully as 'intimatetale'!
+2020-06-01 12:57:27,189 - INFO - Photo '1 (176).jpg' is uploaded.
+2020-06-01 13:27:47,235 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=62a164ba-75aa-4333-b3de-67b962d093c1
+- uuid=f5306b6d-0fa4-4a72-b552-8fc631e5f936
+- client_session_id=c4ce8813-fe72-42a9-9c53-09b7c67b0957
+- device_id=android-eae649198e0733d6
+2020-06-01 13:27:47,236 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-01 13:27:53,106 - INFO - Logged-in successfully as 'intimatetale'!
+2020-06-01 13:28:14,379 - INFO - Photo '1 (177).jpg' is uploaded.
+2020-06-01 13:58:34,414 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=62a164ba-75aa-4333-b3de-67b962d093c1
+- uuid=f5306b6d-0fa4-4a72-b552-8fc631e5f936
+- client_session_id=2d5495a3-2757-4e16-8b80-5aef72dcc2b4
+- device_id=android-eae649198e0733d6
+2020-06-01 13:58:34,415 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-01 13:58:40,837 - INFO - Logged-in successfully as 'intimatetale'!
+2020-06-01 13:59:03,054 - INFO - Photo '1 (179).jpg' is uploaded.
+2020-06-01 14:29:23,091 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=62a164ba-75aa-4333-b3de-67b962d093c1
+- uuid=f5306b6d-0fa4-4a72-b552-8fc631e5f936
+- client_session_id=4511b411-faee-4636-b8fb-a5bdda3e3fe7
+- device_id=android-eae649198e0733d6
+2020-06-01 14:29:23,092 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-01 14:29:29,187 - INFO - Logged-in successfully as 'intimatetale'!
+2020-06-01 14:29:49,264 - INFO - Photo '1 (18).jpg' is uploaded.
+2020-06-01 15:00:09,297 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=62a164ba-75aa-4333-b3de-67b962d093c1
+- uuid=f5306b6d-0fa4-4a72-b552-8fc631e5f936
+- client_session_id=4ab1e858-0248-41b7-a7b4-980df32e7e28
+- device_id=android-eae649198e0733d6
+2020-06-01 15:00:09,297 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-01 15:00:15,701 - INFO - Logged-in successfully as 'intimatetale'!
+2020-06-01 15:00:38,014 - INFO - Photo '1 (181).jpg' is uploaded.
+2020-06-01 15:30:58,051 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=62a164ba-75aa-4333-b3de-67b962d093c1
+- uuid=f5306b6d-0fa4-4a72-b552-8fc631e5f936
+- client_session_id=ea38a87b-3a26-4bbb-81c9-565660bc0e5d
+- device_id=android-eae649198e0733d6
+2020-06-01 15:30:58,052 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-01 15:31:03,258 - INFO - Logged-in successfully as 'intimatetale'!
+2020-06-01 15:31:23,507 - INFO - Photo '1 (182).jpg' is uploaded.
+2020-06-01 16:01:43,539 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=62a164ba-75aa-4333-b3de-67b962d093c1
+- uuid=f5306b6d-0fa4-4a72-b552-8fc631e5f936
+- client_session_id=76e8607f-2fb6-4d1a-b490-eae40e845ce6
+- device_id=android-eae649198e0733d6
+2020-06-01 16:01:43,540 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-01 16:01:48,932 - INFO - Logged-in successfully as 'intimatetale'!
+2020-06-01 16:02:09,690 - INFO - Photo '1 (183).jpg' is uploaded.
+2020-06-01 16:32:29,721 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=62a164ba-75aa-4333-b3de-67b962d093c1
+- uuid=f5306b6d-0fa4-4a72-b552-8fc631e5f936
+- client_session_id=d9b079ba-d15f-4d60-b300-251e1c827348
+- device_id=android-eae649198e0733d6
+2020-06-01 16:32:29,722 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-01 16:32:37,965 - INFO - Logged-in successfully as 'intimatetale'!
+2020-06-01 16:32:57,461 - INFO - Photo '1 (184).jpg' is uploaded.
+2020-06-01 17:03:17,496 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=62a164ba-75aa-4333-b3de-67b962d093c1
+- uuid=f5306b6d-0fa4-4a72-b552-8fc631e5f936
+- client_session_id=453a2833-6012-49b3-bd09-28ffd7846ac9
+- device_id=android-eae649198e0733d6
+2020-06-01 17:03:17,497 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-01 17:03:24,499 - INFO - Logged-in successfully as 'intimatetale'!
+2020-06-01 17:03:46,021 - INFO - Photo '1 (186).jpg' is uploaded.
+2020-06-01 17:34:06,095 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=62a164ba-75aa-4333-b3de-67b962d093c1
+- uuid=f5306b6d-0fa4-4a72-b552-8fc631e5f936
+- client_session_id=055bfdac-3b34-4a06-b7ca-bd6903aa99cc
+- device_id=android-eae649198e0733d6
+2020-06-01 17:34:06,096 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-01 17:34:11,386 - INFO - Logged-in successfully as 'intimatetale'!
+2020-06-01 17:34:32,826 - INFO - Photo '1 (187).jpg' is uploaded.
+2020-06-01 18:04:52,852 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=62a164ba-75aa-4333-b3de-67b962d093c1
+- uuid=f5306b6d-0fa4-4a72-b552-8fc631e5f936
+- client_session_id=e5456d34-2dfb-4d6d-963c-f5af2592d7ce
+- device_id=android-eae649198e0733d6
+2020-06-01 18:04:52,853 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-01 18:04:59,766 - INFO - Logged-in successfully as 'intimatetale'!
+2020-06-01 18:05:20,870 - INFO - Photo '1 (188).jpg' is uploaded.
+2020-06-01 18:35:40,988 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=62a164ba-75aa-4333-b3de-67b962d093c1
+- uuid=f5306b6d-0fa4-4a72-b552-8fc631e5f936
+- client_session_id=9affaa5d-317b-47ea-b525-5748c1a87f9c
+- device_id=android-eae649198e0733d6
+2020-06-01 18:35:40,990 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-01 18:35:48,336 - INFO - Logged-in successfully as 'intimatetale'!
+2020-06-01 18:35:50,214 - ERROR - Photo does not have a compatible photo aspect ratio.
+2020-06-01 18:35:50,214 - INFO - Photo '1 (189).jpg' is not uploaded.
+2020-06-01 19:08:13,325 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=62a164ba-75aa-4333-b3de-67b962d093c1
+- uuid=f5306b6d-0fa4-4a72-b552-8fc631e5f936
+- client_session_id=8443a17e-12de-4981-af69-a3b2cc6ff518
+- device_id=android-eae649198e0733d6
+2020-06-01 19:08:13,325 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-01 19:08:13,514 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/feed/timeline/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A957B7AC88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-06-01 19:08:13,523 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/feed/reels_tray/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A957B7A4C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-06-01 19:08:13,528 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/direct_v2/ranked_recipients/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A957B7A4C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-06-01 19:08:13,534 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/direct_v2/ranked_recipients/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A957BC1C88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-06-01 19:08:13,542 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/direct_v2/inbox/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A957BC1C48>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-06-01 19:08:13,548 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/direct_v2/get_presence/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A957BC1808>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-06-01 19:08:13,554 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/news/inbox (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A957B7AB88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-06-01 19:08:13,561 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/users/profile_notice/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A957BC1808>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-06-01 19:08:13,567 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/discover/explore/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A957B7A448>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-06-01 19:08:13,583 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/qe/sync/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A957BC1D88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-06-01 19:08:13,592 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/qe/sync/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A957B7A448>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-06-01 19:08:13,596 - INFO - Login flow failed, the cookie is broken. Relogin again.
+2020-06-01 19:08:13,613 - INFO - Recovery from intimatetale_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=62a164ba-75aa-4333-b3de-67b962d093c1
+- uuid=f5306b6d-0fa4-4a72-b552-8fc631e5f936
+- client_session_id=ab5c7a7b-aca8-499c-91a9-89ab26d9d887
+- device_id=android-eae649198e0733d6
+2020-06-01 19:08:13,614 - INFO - PRE-LOGIN FLOW!... 
+2020-06-01 19:08:13,620 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/accounts/read_msisdn_header/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A957B36208>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-06-01 19:08:13,629 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/launcher/sync/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A957B7B248>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-06-01 19:08:13,634 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/qe/sync/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A957B7B788>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-06-01 19:08:13,639 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/attribution/log_attribution/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A957B36B48>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-06-01 19:08:13,648 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/accounts/contact_point_prefill/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A957B7B508>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-06-01 19:08:13,657 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/accounts/login/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A957B7BBC8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-06-01 19:08:13,657 - INFO - Username or password is incorrect.
+2020-06-01 19:08:18,054 - INFO - Total requests: 207
+2020-06-01 19:08:18,055 - INFO - Total requests: 207
+2020-06-01 19:08:18,055 - INFO - Total requests: 207
+2020-06-01 19:08:18,059 - INFO - Total requests: 207
+2020-06-01 19:08:18,060 - INFO - Total requests: 207
+2020-06-01 19:08:18,062 - INFO - Total requests: 207
+2020-06-01 19:08:18,062 - INFO - Total requests: 207
+2020-06-01 19:08:18,064 - INFO - Total requests: 207
+2020-06-01 19:08:18,066 - INFO - Total requests: 207
+2020-06-01 19:08:18,067 - INFO - Total requests: 207
+2020-06-01 19:08:18,068 - INFO - Total requests: 207
+2020-06-01 19:08:18,069 - INFO - Total requests: 207
+2020-06-01 19:08:18,070 - INFO - Total requests: 207
+2020-06-01 19:08:18,070 - INFO - Total requests: 207
+2020-06-01 19:08:18,071 - INFO - Total requests: 207
+2020-06-01 19:08:18,072 - INFO - Total requests: 207

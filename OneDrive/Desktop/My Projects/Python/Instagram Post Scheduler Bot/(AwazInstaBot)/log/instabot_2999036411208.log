@@ -1,0 +1,11 @@
+2020-01-16 15:55:23,636 - INFO - Instabot Started
+2020-01-16 18:58:08,348 - INFO - Recovery from mcet_memes_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=dced5117-3643-48c2-ae57-5d4877b09bef
+- uuid=b8d36a1b-64ef-44b9-94bf-036c1163531b
+- client_session_id=026329f8-790e-46bf-8ad2-9e4a54093cde
+- device_id=android-f5254ea908bdecdc
+2020-01-16 18:58:08,348 - INFO - LOGIN FLOW! Just logged-in: False
+2020-01-16 18:58:23,424 - INFO - Logged-in successfully as 'mcet_memes'!
+2020-01-16 18:58:46,040 - INFO - Photo '1 (1).jpg.REMOVE_ME' is uploaded.
+2020-01-16 19:41:43,445 - INFO - Total requests: 13

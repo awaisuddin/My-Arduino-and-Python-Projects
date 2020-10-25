@@ -1,0 +1,32 @@
+2020-01-18 01:54:01,607 - INFO - Instabot Started
+2020-01-18 02:48:02,902 - INFO - PRE-LOGIN FLOW!... 
+2020-01-18 02:48:05,886 - INFO - Logged-in successfully as 'mcet_memes'!
+2020-01-18 02:48:05,886 - INFO - LOGIN FLOW! Just logged-in: True
+2020-01-18 02:48:45,750 - INFO - Photo '1 (15).jpg' is uploaded.
+2020-01-18 07:58:11,726 - INFO - Recovery from mcet_memes_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=505a7418-2b6e-4646-853e-d94ab0e34265
+- uuid=d5f879ad-d047-4508-8de1-cbeea28eab37
+- client_session_id=9ae375ad-8a4d-4487-8147-24860acbd566
+- device_id=android-f5254ea908bdecdc
+2020-01-18 07:58:11,741 - INFO - LOGIN FLOW! Just logged-in: False
+2020-01-18 07:58:19,472 - INFO - Logged-in successfully as 'mcet_memes'!
+2020-01-18 07:58:41,368 - INFO - Photo '1 (16).jpg' is uploaded.
+2020-01-18 18:58:03,672 - INFO - Recovery from mcet_memes_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=505a7418-2b6e-4646-853e-d94ab0e34265
+- uuid=d5f879ad-d047-4508-8de1-cbeea28eab37
+- client_session_id=ab029c63-c388-4a12-b100-5ee0e437d419
+- device_id=android-f5254ea908bdecdc
+2020-01-18 18:58:03,686 - INFO - LOGIN FLOW! Just logged-in: False
+2020-01-18 18:58:11,883 - INFO - Logged-in successfully as 'mcet_memes'!
+2020-01-18 18:58:35,798 - INFO - Photo '1 (17).jpg' is uploaded.
+2020-01-18 21:58:00,617 - INFO - Recovery from mcet_memes_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=505a7418-2b6e-4646-853e-d94ab0e34265
+- uuid=d5f879ad-d047-4508-8de1-cbeea28eab37
+- client_session_id=beda8f3e-7846-4724-9bce-5bbda3a41b62
+- device_id=android-f5254ea908bdecdc
+2020-01-18 21:58:00,624 - INFO - LOGIN FLOW! Just logged-in: False
+2020-01-18 21:58:08,866 - INFO - Logged-in successfully as 'mcet_memes'!
+2020-01-18 21:58:34,473 - INFO - Photo '1 (18).jpg' is uploaded.
